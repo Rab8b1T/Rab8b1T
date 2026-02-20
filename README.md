@@ -68,7 +68,17 @@ An interactive learning and competitive programming dashboard designed to track 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rab8b1T&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages"/>
 </p>
 
+
+
 --- -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rab8b1T/Rab8b1T/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rab8b1T/Rab8b1T/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rab8b1T/Rab8b1T/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ### 🤝 Let's Connect
 
