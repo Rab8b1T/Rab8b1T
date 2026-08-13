@@ -36,21 +36,6 @@
 
 ---
 
-### 🚀 Featured Project: **[SKILL-TREE](https://github.com/Rab8b1T/SKILL-TREE)**
-
-An interactive learning and competitive programming dashboard designed to track progress and consolidate practice tools into a single hub.
-
-- **Unified Dashboard:** Secure authentication system leading to a centralized hub for competitive programming and learning resources.
-- **Virtual Contest Engine:** Codeforces-style virtual contests (DIV 1–4) with live timers, scoring, penalties, and MongoDB cloud sync to persist session data across devices.
-- **Structured Roadmaps:** Interactive mastery roadmap to track learning progress, alongside integrated A2OJ ladders and Codeforces analytics.
-- **Tech Stack:** Vanilla HTML/CSS/JS frontend; Node.js (Vercel serverless) & Python Flask backend; MongoDB Atlas & Redis for data persistence.
-
-<p align="center">
-  <a href="https://github.com/Rab8b1T/SKILL-TREE"><strong>Explore the source repository →</strong></a>
-</p>
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 **Languages**
