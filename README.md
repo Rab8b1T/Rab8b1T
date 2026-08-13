@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Working+Professional;Competitive+Programmer;Full-Stack+Developer;Always+Building+%26+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Backend+%26+Platform+Engineer;AI+Agent+%26+MCP+Tooling;Competitive+Programmer;Always+Building+%26+Learning" alt="Typing SVG" />
   </a>
 </p>
 
@@ -9,12 +9,26 @@
 </p>
 
 <p align="center">
-  I'm a working professional with a strong focus on competitive programming, algorithms, and full-stack development. I enjoy building efficient systems, solving complex logic problems, and optimizing code from the ground up.
+  I'm a working professional building backend services, enterprise automation and AI-agent tooling, with a strong focus on competitive programming and algorithms. I enjoy designing efficient systems, tracing problems down to their root cause, and optimizing code from the ground up.
 </p>
 
 ---
 
+### 💼 What I Build
+
+- **Distributed Tracing & Audit Platforms** — end-to-end transaction observability that consolidates every service hop into a single searchable record with latency, status and failure context.
+- **AI Agent Tooling (MCP)** — Model Context Protocol servers that connect logs, databases, source control and internal APIs to AI coding agents through safe, permission-aware tool interfaces.
+- **Multi-Agent Orchestration** — services that turn a single message into an autonomous agent run, with session registries, bounded concurrency, resumable follow-ups and role-based personas.
+- **Platform Modernization** — large-scale JVM and framework upgrades, namespace migrations and dependency remediation across long-lived backend services.
+- **Batch & Data Pipelines** — restartable, high-volume batch processing, validation and reconciliation jobs over large relational datasets.
+- **Performance & Reliability** — SQL and index tuning, log-driven root-cause analysis, and production incident response.
+
+---
+
 ### 🚧 Current Focus
+
+- Designing MCP servers and agent workflows for real engineering problems.
+- Deepening distributed systems, concurrency and system design fundamentals.
 - Grinding competitive programming algorithms and data structures.
 - Exploring system-level programming and performance optimization with C++ and Rust.
 - Building full-stack productivity tools and interactive dashboards.
@@ -38,18 +52,36 @@ An interactive learning and competitive programming dashboard designed to track 
 ---
 
 ### 🛠️ Tech Stack & Tools
+
+**Languages**
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+**Backend & Data**
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
 
+**AI, Platform & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/MCP-1F1F1F?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
@@ -82,7 +114,7 @@ An interactive learning and competitive programming dashboard designed to track 
 
 ### 🤝 Let's Connect
 
-Always open to discussing algorithms, system design, or exciting new projects.
+Always open to discussing algorithms, system design, agent tooling, or exciting new projects.
 
 <p align="left">
   <a href="mailto:arghya2k01@gmail.com">
